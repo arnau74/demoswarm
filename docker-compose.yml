@@ -1,0 +1,6 @@
+version: "2"
+services:
+ demoapp:
+  image: $WEB_IMAGE_NAME
+  build:
+   context: ./
