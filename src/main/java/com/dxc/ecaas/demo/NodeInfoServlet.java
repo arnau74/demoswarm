@@ -30,7 +30,7 @@ public class NodeInfoServlet extends HttpServlet {
 
 	/* Put your content here */
 	writer.println("<h1>Hello from the ECaaS team from Italy!</h1>");
-    writer.println("<h1>Hello Antonio Arnau! V2.1</h1>");
+    writer.println("<h1>Hello Antonio Arnau! V2.2</h1>");
 	/* HTML trailer */
 	writer.println("</body>\n</html>");
 
